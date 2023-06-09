@@ -15,7 +15,7 @@ public class ReArrangeArrays {
                 j++;
             }
         }
-    } // end of arrays()
+    } 
 
     public static void main(String args[]) {
 
